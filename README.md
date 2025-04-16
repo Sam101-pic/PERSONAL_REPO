@@ -6,7 +6,7 @@ Welcome to **My Cool Project**! This project showcases something awesome.
 
 Click the thumbnail below to watch the demo video on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
+[![Hospital Management System EMR](https://img.youtube.com/vi/_PfG1i67uC4/0.jpg)](https://www.youtube.com/watch?v=_PfG1i67uC4)
 
 ## 📦 Features
 
