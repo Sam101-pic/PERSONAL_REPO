@@ -1,10 +1,29 @@
-## ⚙️ HTML Image Map
+# 🎬 My Cool Project
 
-### 🔗 Interactive Flow Diagram
+Welcome to **My Cool Project**! This project showcases something awesome.
 
-<a href="https://Sam101-pic.github.io/danphe-readme/Flow_diagrams/index.html" target="_blank">
-  <img src="https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D" alt="Flow Diagram" />
-  </a>
+## 🚀 Demo Video
 
+Click the thumbnail below to watch the demo video on YouTube:
 
----
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
+
+## 📦 Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## 📁 How to Use
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+npm install
+npm start
